@@ -1,1 +1,1 @@
-Sitemap: https://moonpiedumplings.github.io/blog-template/sitemap.xml
+Sitemap: https://moonpiedumplings.github.io/username.github.io/sitemap.xml
